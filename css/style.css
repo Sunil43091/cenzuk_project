@@ -422,6 +422,9 @@ ul li.active a {
   height: 100%;
   opacity: 0.4;
 }
+.ct-point-image img{
+ width:100%;
+}
 
 .swiper_heading h1 {
   z-index: 8;
